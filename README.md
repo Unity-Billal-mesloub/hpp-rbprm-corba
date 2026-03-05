@@ -1,15 +1,11 @@
 #  Humanoid Path Planner - RBPRM-CORBA module
 
-[![Pipeline status](https://gepgitlab.laas.fr/humanoid-path-planner/hpp-rbprm-corba/badges/master/pipeline.svg)](https://gepgitlab.laas.fr/humanoid-path-planner/hpp-rbprm-corba/commits/master)
 [![Coverage report](https://gepgitlab.laas.fr/humanoid-path-planner/hpp-rbprm-corba/badges/master/coverage.svg?job=doc-coverage)](http://projects.laas.fr/gepetto/doc/humanoid-path-planner/hpp-rbprm-corba/master/coverage/)
 
-Copyright 2015-2020 LAAS-CNRS
-
-Authors: Steve Tonneau, Pierre Fernbach
 
 ## Description
 hpp-rbprm-corba implements python bindings for hpp-rbprm, and presents a few example files.
-Please refer to this [link](https://github.com/humanoid-path-planner/hpp-rbprm) for information on hpp-rbprm.
+Please refer to this [link](https://github.com/Unity-Billal-mesloub/hpp-rbprm) for information on hpp-rbprm.
 
 ## Installation from binary package repository
 
